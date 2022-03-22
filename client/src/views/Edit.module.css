@@ -1,0 +1,40 @@
+.form {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width: 55%;
+    margin: 0 auto;
+    border: 1px solid rgb(28, 27, 27);
+    border-radius: 13.5px;
+    background: rgb(0, 0, 0);
+    margin-bottom: 40px;
+    color: white;
+}
+
+.header {
+    padding: 10px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.input {
+    padding: 10px;
+}
+
+.label {
+    margin-right: 20px;
+    font-family: monospace;
+    font-size: 1.2rem;
+    font-weight: 243;
+}
+
+.button {
+    margin-top: 1rem;
+    padding: 5px 18px; 
+    font-family: Arial, sans-serif; 
+    font-weight: bold;
+    background: linear-gradient(30deg, rgb(239, 220, 76), rgb(246, 173, 28)); 
+    color: #fff; 
+    border: none;
+    border: 1px solid rgb(234, 234, 234);
+    border-radius: 12px;
+}
+
